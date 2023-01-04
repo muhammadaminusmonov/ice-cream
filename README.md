@@ -1,4 +1,4 @@
 # front-end-exam-by-muhammadamin
 
-website
+how it look like
 https://figma-ice-cream.netlify.app
